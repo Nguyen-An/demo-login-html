@@ -109,3 +109,23 @@
     padding: 0 52px;
     width: 100%;
 }
+
+.layout__right__outline__layout_btn{
+    width: 100%;
+    padding: 0 52px;
+}
+
+.layout__right__outline__btn{
+    background: #ee0033;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fcfcfc;
+    text-align: center;
+    padding: 14px 0;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.layout__right__outline__btn:hover{
+    opacity: 0.9;
+}
